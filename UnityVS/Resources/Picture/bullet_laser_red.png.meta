@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 0f8cd4d6afcd4a241a8c0d735a8baebf
+timeCreated: 1460720171
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bullet_laser_red_0
+    21300002: bullet_laser_red_1
+    21300004: bullet_laser_red_2
+    21300006: bullet_laser_red_3
+    21300008: bullet_laser_red_4
+    21300010: bullet_laser_red_5
+    21300012: bullet_laser_red_6
+    21300014: bullet_laser_red_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bullet_laser_red_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 299
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 17}
+        - {x: -16.5, y: 12}
+        - {x: -16.5, y: -16}
+        - {x: -14.5, y: -17}
+        - {x: 11.5, y: -17}
+        - {x: 16.5, y: -12}
+        - {x: 16.5, y: 14}
+        - {x: 10.5, y: 17}
+      tessellationDetail: 0
+    - name: bullet_laser_red_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 268
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 32}
+        - {x: -26.5, y: 21}
+        - {x: -26.5, y: -30}
+        - {x: -22.5, y: -32}
+        - {x: 24.5, y: -32}
+        - {x: 26.5, y: -31}
+        - {x: 26.5, y: 29}
+        - {x: 25.5, y: 32}
+      tessellationDetail: 0
+    - name: bullet_laser_red_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 275
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 24}
+        - {x: -26.5, y: 14}
+        - {x: -26.5, y: -24}
+        - {x: 26.5, y: -24}
+        - {x: 26.5, y: 16}
+        - {x: 18.5, y: 24}
+      tessellationDetail: 0
+    - name: bullet_laser_red_3
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 145
+        width: 47
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 50.5}
+        - {x: -23.5, y: -46.5}
+        - {x: -17.5, y: -50.5}
+        - {x: 12.5, y: -50.5}
+        - {x: 20.5, y: -47.5}
+        - {x: 23.5, y: -36.5}
+        - {x: 23.5, y: 50.5}
+      tessellationDetail: 0
+    - name: bullet_laser_red_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 140
+        width: 51
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 53}
+        - {x: -25.5, y: -53}
+        - {x: 22.5, y: -53}
+        - {x: 25.5, y: -42}
+        - {x: 25.5, y: 53}
+      tessellationDetail: 0
+    - name: bullet_laser_red_5
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 245
+        width: 21
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - name: bullet_laser_red_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 17
+        width: 47
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 114}
+        - {x: -23.5, y: -114}
+        - {x: 23.5, y: -114}
+        - {x: 23.5, y: 114}
+      tessellationDetail: 0
+    - name: bullet_laser_red_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 15
+        width: 51
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 114}
+        - {x: -25.5, y: -114}
+        - {x: 25.5, y: -114}
+        - {x: 25.5, y: 114}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

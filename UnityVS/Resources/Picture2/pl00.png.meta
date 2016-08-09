@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: 13f4c16200aba424eaa8aff7021b2969
+timeCreated: 1463563097
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pl00_0
+    21300002: pl00_1
+    21300004: pl00_2
+    21300006: pl00_3
+    21300008: pl00_4
+    21300010: pl00_5
+    21300012: pl00_6
+    21300014: pl00_7
+    21300016: pl00_8
+    21300018: pl00_9
+    21300020: pl00_10
+    21300022: pl00_11
+    21300024: pl00_12
+    21300026: pl00_13
+    21300028: pl00_14
+    21300030: pl00_15
+    21300032: pl00_16
+    21300034: pl00_17
+    21300036: pl00_18
+    21300038: pl00_19
+    21300040: pl00_20
+    21300042: pl00_21
+    21300044: pl00_22
+    21300046: pl00_23
+    21300048: pl00_24
+    21300050: pl00_25
+    21300052: pl00_26
+    21300054: pl00_27
+    21300056: pl00_28
+    21300058: pl00_29
+    21300060: pl00_30
+    21300062: pl00_31
+    21300064: pl00_32
+    21300066: pl00_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pl00_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 47}
+        - {x: -22, y: 47}
+        - {x: -28, y: 32}
+        - {x: -28, y: -21}
+        - {x: -5, y: -48}
+        - {x: 8, y: -48}
+        - {x: 27, y: -20}
+        - {x: 27, y: 28}
+        - {x: 20, y: 46}
+      tessellationDetail: 0
+    - name: pl00_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 46}
+        - {x: -25, y: 30}
+        - {x: -25, y: -34}
+        - {x: -24, y: -37}
+        - {x: -2, y: -46}
+        - {x: 13, y: -46}
+        - {x: 26, y: -36}
+        - {x: 26, y: 46}
+      tessellationDetail: 0
+    - name: pl00_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 47}
+        - {x: -24, y: 47}
+        - {x: -27, y: 42}
+        - {x: -27, y: -25}
+        - {x: -13, y: -45}
+        - {x: 14, y: -45}
+        - {x: 27, y: -16}
+        - {x: 27, y: 23}
+        - {x: 18, y: 44}
+      tessellationDetail: 0
+    - name: pl00_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 44}
+        - {x: -26, y: 36}
+        - {x: -26, y: -15}
+        - {x: -23, y: -25}
+        - {x: 2, y: -44}
+        - {x: 12, y: -44}
+        - {x: 16, y: -42}
+        - {x: 26, y: -24}
+        - {x: 26, y: 14}
+        - {x: 20, y: 44}
+      tessellationDetail: 0
+    - name: pl00_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 45}
+        - {x: -26, y: 44}
+        - {x: -26, y: -26}
+        - {x: 7, y: -44}
+        - {x: 20, y: -44}
+        - {x: 29, y: -32}
+        - {x: 29, y: 45}
+      tessellationDetail: 0
+    - name: pl00_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 44}
+        - {x: -21, y: 44}
+        - {x: -25, y: 27}
+        - {x: -25, y: -30}
+        - {x: 6, y: -45}
+        - {x: 19, y: -45}
+        - {x: 31, y: -13}
+        - {x: 31, y: 5}
+        - {x: 21, y: 41}
+      tessellationDetail: 0
+    - name: pl00_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 45}
+        - {x: -20, y: 45}
+        - {x: -25, y: 29}
+        - {x: -25, y: -24}
+        - {x: 9, y: -45}
+        - {x: 19, y: -45}
+        - {x: 31, y: -19}
+        - {x: 31, y: 30}
+        - {x: 29, y: 37}
+      tessellationDetail: 0
+    - name: pl00_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 44}
+        - {x: -25, y: 36}
+        - {x: -25, y: -25}
+        - {x: -6, y: -45}
+        - {x: 17, y: -45}
+        - {x: 18, y: -43}
+        - {x: 29, y: -16}
+        - {x: 29, y: 10}
+        - {x: 22, y: 44}
+      tessellationDetail: 0
+    - name: pl00_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 46}
+        - {x: -21, y: 41}
+        - {x: -27, y: 7}
+        - {x: -27, y: -25}
+        - {x: -7, y: -48}
+        - {x: 6, y: -48}
+        - {x: 28, y: -37}
+        - {x: 28, y: 46}
+      tessellationDetail: 0
+    - name: pl00_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 45}
+        - {x: -21, y: 35}
+        - {x: -25, y: 17}
+        - {x: -25, y: -28}
+        - {x: -17, y: -46}
+        - {x: 6, y: -46}
+        - {x: 27, y: -39}
+        - {x: 27, y: 21}
+        - {x: 18, y: 45}
+      tessellationDetail: 0
+    - name: pl00_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 47}
+        - {x: -25, y: 35}
+        - {x: -25, y: -26}
+        - {x: -12, y: -45}
+        - {x: 10, y: -45}
+        - {x: 31, y: -14}
+        - {x: 31, y: 27}
+        - {x: 25, y: 47}
+      tessellationDetail: 0
+    - name: pl00_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -24}
+        - {x: -13, y: -45}
+        - {x: -2, y: -45}
+        - {x: 25, y: -31}
+        - {x: 25, y: 37}
+        - {x: 24, y: 44}
+        - {x: -19, y: 44}
+        - {x: -26, y: 17}
+      tessellationDetail: 0
+    - name: pl00_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -17}
+        - {x: -16, y: -45}
+        - {x: -5, y: -45}
+        - {x: 26, y: -31}
+        - {x: 26, y: 33}
+        - {x: 24, y: 44}
+        - {x: -18, y: 44}
+        - {x: -27, y: 23}
+      tessellationDetail: 0
+    - name: pl00_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 44}
+        - {x: -28, y: 10}
+        - {x: -28, y: -29}
+        - {x: -22, y: -45}
+        - {x: 2, y: -45}
+        - {x: 25, y: -37}
+        - {x: 25, y: 39}
+        - {x: 23, y: 44}
+      tessellationDetail: 0
+    - name: pl00_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 36}
+        - {x: 19, y: 42}
+        - {x: 14, y: 45}
+        - {x: -16, y: 45}
+        - {x: -28, y: 24}
+        - {x: -28, y: -34}
+        - {x: -25, y: -45}
+        - {x: -4, y: -45}
+        - {x: 23, y: -23}
+        - {x: 25, y: -7}
+        - {x: 25, y: 10}
+      tessellationDetail: 0
+    - name: pl00_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 43}
+        - {x: -27, y: 17}
+        - {x: -27, y: -21}
+        - {x: -20, y: -45}
+        - {x: -5, y: -45}
+        - {x: 17, y: -34}
+        - {x: 25, y: -28}
+        - {x: 25, y: 35}
+        - {x: 24, y: 43}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
